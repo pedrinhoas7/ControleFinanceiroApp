@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db609754-34d0-4812-b4d5-1918b93a1dbd": {
+      "ProjectGuid": "db609754-34d0-4812-b4d5-1918b93a1dbd",
+      "DisplayName": "controlefinanceiro-app",
+      "ColorIndex": 0
+    },
+    "0bacc152-a801-4453-b162-2b23c9c0d16c": {
+      "ProjectGuid": "0bacc152-a801-4453-b162-2b23c9c0d16c",
+      "DisplayName": "controlefinanceiro-app.Android",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
